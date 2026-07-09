@@ -2,6 +2,8 @@
 
 🔗 **Live dashboard:** https://datastudio.google.com/reporting/372b78d7-281a-4453-89e0-bd33dfaa3dc8
 
+![TheLook dashboard](TheLookerEcommerce.png)
+
 ## Panels
 
 - **Monthly Revenue Growth (2019–2025)** — time series, sustained growth
