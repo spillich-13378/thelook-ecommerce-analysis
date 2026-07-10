@@ -2,7 +2,7 @@
 
 🔗 **Live dashboard:** https://datastudio.google.com/reporting/372b78d7-281a-4453-89e0-bd33dfaa3dc8
 
-![TheLook dashboard](TheLookerEcommerce.png)
+![TheLook dashboard](thelook_dashboard.png)
 
 ## Panels
 
